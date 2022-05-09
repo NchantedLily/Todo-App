@@ -52,9 +52,7 @@ h1{
   border-width: 10px;
   border-style: solid;
   border-color: #d33cf2;
+  color: #d33cf2;
 
 }
 
-input{
-  color: #aa2bfd;
-}
